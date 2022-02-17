@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #171021
+}
+
+#game-container canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+
+hr {
+  border: #301B2A;
+
+}
