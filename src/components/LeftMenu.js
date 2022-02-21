@@ -14,7 +14,7 @@ export function LeftMenu() {
 
     return (
         <DivStyle>
-            <img width="70%" src={title}/>
+            <img alt="title" width="70%" src={title}/>
             <div style={{width: '70%', margin: 'auto', marginTop: '5px', marginBottom: '5px'}}>
                 <p style={{fontSize: '16px', opacity: '70%'}}>
                     Enter the <strong>FRENY ARENA</strong> and fight to survive as long as you can
