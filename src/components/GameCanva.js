@@ -11,10 +11,10 @@ const DivStyle = styled.div`
 `
 
 const unityContext = new UnityContext({
-    loaderUrl: "Build/freny-d-disabled.loader.js",
-    dataUrl: "Build/freny-d-disabled.data",
-    frameworkUrl: "Build/freny-d-disabled.framework.js",
-    codeUrl: "Build/freny-d-disabled.wasm",
+    loaderUrl: "BuildFreny/freny-d-disabled.loader.js",
+    dataUrl: "BuildFreny/freny-d-disabled.data",
+    frameworkUrl: "BuildFreny/freny-d-disabled.framework.js",
+    codeUrl: "BuildFreny/freny-d-disabled.wasm",
 
 });
 
